@@ -1,0 +1,5 @@
+Persoana Arizona Andrews este inscrisa la evenimentele: 
+ID:2; Date:2022-03-03; Time:03:03; Description:Dancing Night
+ID:3; Date:2022-02-02; Time:02:02; Description:Dancing Night
+ID:4; Date:2022-04-04; Time:04:04; Description:Rock Night
+ID:1; Date:2022-01-01; Time:01:01; Description:Movie Night

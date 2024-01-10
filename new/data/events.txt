@@ -1,0 +1,7 @@
+1; 01.01.2022; 01:01; Movie Night
+3; 02.02.2022; 02:02; Dancing Night
+2; 03.03.2022; 03:03; Dancing Night
+4; 04.04.2022; 04:04; Rock Night
+5; 05.05.2022; 05:05; Salsa Night
+6; 06.06.2022; 06:06; Games Night
+7; 07.07.2022; 07:07; Karaoke Night
